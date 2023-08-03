@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@font-face{
+    font-family: 'Vampire';
+    src: url("fontes/Vampire Wars.otf") format("opentype"),
+    url("fontes/Vampire Wars.ttf") format("truetype"); 
+}
+body{
+    background-image: linear-gradient();
+}
+p{
+    text-align: justify;
+}
+h1{
+    font-family: 'Vampire', Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
